@@ -1,0 +1,21 @@
+print("Me encanta estudiar Python")
+
+print('Estudiar con "Python Total" es super divertido')
+
+print(550+5)
+
+print("Línea 1\nLínea 2\nLínea 3")
+
+print("A\tB\tC")
+print("D\tE\tF")
+print("G\tH\tI")
+
+print("Barra Normal: /")
+print("Barra Invertida: \\")
+
+print(input("¿Qué estás estudiando?"))
+
+print(input("¿En qué país vives?"))
+
+print(input("Escribe tu nombre:")+" "+input("Escribe tu apellido:"))
+
